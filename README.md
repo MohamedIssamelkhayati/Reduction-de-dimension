@@ -1,4 +1,4 @@
-# Rduction-de-dimension
+# Réduction de dimension
 Réduction de dimension pour l’analyse et la visualisation de grands jeux de données multidimensionnels
 Étude théorique et pratique
 Au cours des dernières décennies, l’évolution rapide des technologies de l’information,
